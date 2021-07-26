@@ -1,0 +1,65 @@
+body{
+    font-family: 'Hind', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: gray;
+}
+.bio{
+    color: rgb(252, 9, 49);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.back-banner{
+    background-image: url("Images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 450px;
+    padding: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, rgb(252, 2, 252), rgb(57, 57, 235));
+    color: white;
+    padding: 7px 14px;
+    border-radius: 7px;
+    font-weight: 700;
+}
+.dream-area{
+    background-image: url(Images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.work{
+    text-align: center;
+}
+.three-width img{
+    width: 30%;
+
+}
+.client{
+    text-align: center;
+}
+.ceo{
+    margin: -2%;
+    font-size:12px;
+}
+.last{
+    margin: 5%;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
